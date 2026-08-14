@@ -1,6 +1,6 @@
 # Memo Teardown — NotebookLM → Gemini Notebook
 
-**Nhóm:** Chưa cung cấp · **Thành viên:** Chưa cung cấp
+**Nhóm:** Grounded · **Thành viên:** Cao Nhật Minh — 2A202601721; Dương Văn Vũ — 2A202601663; Phạm Khánh Linh — 2A202601507
 
 **Vì sao chọn sản phẩm này:** Gemini Notebook là ví dụ rõ về một AI product đi từ “chat có căn cứ trên nguồn user nạp” sang workflow học tập, nghiên cứu và phân tích nằm trong hệ sinh thái Gemini/Search. Chuỗi đổi tên, mở input, đổi output và bán theo tier cho thấy các quyết định sản phẩm liên kết với nhau, thay vì chỉ là changelog.
 
