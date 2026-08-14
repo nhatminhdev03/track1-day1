@@ -65,9 +65,3 @@
 **JTBD:** *“Khi tôi có nhiều tài liệu đáng tin nhưng không đủ thời gian đọc và kết nối chúng, hãy giúp tôi nhanh chóng hiểu, kiểm chứng và chuyển chúng thành đầu ra phù hợp — nhưng luôn bám vào bộ nguồn tôi đã chọn — để tôi học, quyết định hoặc truyền đạt tốt hơn.”*
 
 **Giả thuyết dịch chuyển để kiểm tra ở Step 1:** `grounded AI notebook (2023)` → `trợ lý research đa nguồn, global (2024)` → `studio đa phương thức + mobile + học chủ động (2024–2025)`.
-
-## 6. Lưu ý chuyển sang Step 1
-
-- CP0 là kho nguồn/mốc; cần chọn 6–8 mốc có thay đổi chiến lược nhất, không dùng toàn bộ feature update.
-- Ưu tiên Google Blog là nguồn gốc. Product Hunt archive chỉ là nguồn phụ về launch/community.
-- Khi chọn mốc cuối, cần ghi chính xác phạm vi rollout (beta, quốc gia, gói trả phí hay all users).
